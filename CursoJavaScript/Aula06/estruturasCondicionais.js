@@ -21,3 +21,8 @@ if(media >= 7) {
 } else {
     console.log('Reprovado(o)!')
 }
+
+
+var x = 10;
+console.log(x + y);
+let y = 15;

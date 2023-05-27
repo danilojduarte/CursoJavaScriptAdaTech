@@ -26,3 +26,9 @@ const numero = 10
 console.log(numero == "10")
 // JavaScript entende que sim, é um número mesmo sendo string
 // Compara tipos de variaveis, utilizar (===);
+
+
+0 <= 0
+1 < 1
+-2 > -22
+-22 > 0
