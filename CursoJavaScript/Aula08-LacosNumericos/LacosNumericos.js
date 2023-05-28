@@ -37,3 +37,9 @@ for (let i = 1; i <= 3; i++) {
 }
 
 console.log(`A media do aluno é${soma / 3}.`)
+
+console.clear
+
+for (let i = 0; i <= 9; i+=2) {
+    console.log(i);
+}

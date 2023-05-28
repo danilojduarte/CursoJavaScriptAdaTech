@@ -14,3 +14,7 @@ while (numero !== numeroSorteado) {
 }
 
 console.log('Vc acertou!')
+
+while (true) {
+    console.log('olá, mundo');
+}

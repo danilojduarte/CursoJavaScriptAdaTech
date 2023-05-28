@@ -48,3 +48,21 @@ console.log(arr1.includes(10))
 // Invertando arrays : reverse
 
 const arr1.reverse()
+
+var array = [2, 5, 9];
+console.log(array.indexOf(2));
+console.log(array.indexOf(7));
+console.log(array.indexOf(9, 2));
+
+
+function funcao(array) {
+    let acc = 0;
+  
+    for (let elemento of array) {
+      acc += elemento;
+    }
+  
+    return (acc / array.length);
+  }
+  
+  console.log(funcao([4, 6, 4, 2]));
